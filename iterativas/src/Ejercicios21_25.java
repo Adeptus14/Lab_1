@@ -1,3 +1,5 @@
 public class Ejercicios21_25 {
-    //por el emperador
+    public static void main(String[] args) {
+
+    }
 }
