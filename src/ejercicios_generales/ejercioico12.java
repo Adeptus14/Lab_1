@@ -1,6 +1,8 @@
+package ejercicios_generales;
+
 import java.io.IOException ;
 import java.util.Scanner ;
-public class Main {
+public class ejercioico12 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         String texto ;

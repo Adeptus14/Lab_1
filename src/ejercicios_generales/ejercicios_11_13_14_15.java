@@ -1,7 +1,9 @@
+package ejercicios_generales;
+
 import java.util.Scanner;
 import java.io.IOException;
 
-public class Main {
+public class ejercicios_11_13_14_15{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in) ;
 
