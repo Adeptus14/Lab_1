@@ -1,12 +1,13 @@
 package funciones;
 
 import java.util.Scanner;
-
+/**
+ * @author Enzo Rosso Hausberger
+ */
 public class EjerciciosFunciones6_7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         //6) Comprobar si un número es perfecto con funciones.
-        int answer = 0;
         System.out.print("Enter an integer number: ");
         int number = sc.nextInt();
         System.out.println(itsPerfect(number));
@@ -19,6 +20,7 @@ public class EjerciciosFunciones6_7 {
         int number2 = sc.nextInt();
         System.out.println(areFriends(number, number2));
 
+        sc.close();
     }
 
     public static String itsPerfect(int eNum){
