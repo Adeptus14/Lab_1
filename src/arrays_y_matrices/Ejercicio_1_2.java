@@ -2,7 +2,7 @@ package arrays_y_matrices;
 
 import java.util.Scanner;
 /**
- * *@author ENZO ROSS HAUSBERGER
+ * *@author ENZO ROSSO HAUSBERGER
  */
 public class Ejercicio_1_2 {
     public static void main(String[] args) {
