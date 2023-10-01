@@ -1,6 +1,8 @@
+package funciones;
+
 import java.util.Scanner;
 
-public class Main {
+public class ejerciciosFunciones16_20 {
     public static void main(String[] args) {
         //ejercicio funciones 1
         Scanner sc = new Scanner(System.in);
