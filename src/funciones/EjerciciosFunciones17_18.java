@@ -1,4 +1,4 @@
-package com.mycompany.ejercicios17y18confunciones;
+package funciones;
 
 import java.util.Scanner;
 
@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author lauta
  */
-public class Ejercicios17y18ConFunciones {
+public class EjerciciosFunciones17_18 {
     public static void main(String[] args) {
         int numero;
         Scanner sc = new Scanner(System.in);
