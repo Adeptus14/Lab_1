@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package com.mycompany.stringejercicios11y12;
+package practico_string;
 
 import javax.swing.JOptionPane;
 
@@ -10,7 +10,7 @@ import javax.swing.JOptionPane;
  *
  * @author lauta
  */
-public class StringEjercicios11y12 {
+public class ejercicios11_12 {
 
     public static void main(String[] args) {
         String cad;
